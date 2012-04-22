@@ -1,0 +1,3 @@
+function getDookie() {
+  return "dookie";
+}
